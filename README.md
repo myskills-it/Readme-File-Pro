@@ -1,7 +1,4 @@
     <section>
-    I am a [Your Job Title/Interest]. I love learning about web development, open source, and technology.</p>
-        </section>
-
     
             <h2>My Skills</h2>
             <ul>
