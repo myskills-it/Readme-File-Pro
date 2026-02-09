@@ -1,4 +1,4 @@
-    <section>
+    
         <h2>My Skills</h2>
             <ul>
                 <li>HTML & CSS</li>
@@ -6,6 +6,6 @@
                 <li>Git & GitHub</li>
                 <li>[Another Skill]</li>
             </ul>
-    </section>
+    
 
         
