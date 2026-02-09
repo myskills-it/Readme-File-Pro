@@ -1,67 +1,38 @@
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">A passionate developer from Your Country</h3>
 
-
-<style>
-  .hover-box {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-    font-size: 20px;
-  }
-
-  .hover-box .hover-name {
-    visibility: hidden;
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding: 6px 10px;
-    border-radius: 5px;
-
-    position: absolute;
-    bottom: 130%;
-    left: 50%;
-    transform: translateX(-50%);
-    white-space: nowrap;
-  }
-
-  .hover-box:hover .hover-name {
-    visibility: visible;
-  }
-</style>
-
-<p>
-  Hover over this:
-  <span class="hover-box">
-    👤 User
-    <span class="hover-name">John Doe</span>
-  </span>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-</body>
-</html>
+---
 
-<h4>HHH</h4>
+<h2>🚀 About Me</h2>
+<ul>
+  <li>💻 I love building web applications</li>
+  <li>🌱 Currently learning <strong>JavaScript, HTML, CSS</strong></li>
+  <li>🎯 Goal: Become a full-stack developer</li>
+  <li>⚡ Fun fact: I debug more than I code 😄</li>
+</ul>
 
-<section>
-            <h2>My Skills</h2>
-            <ul>
-                <li>HTML & CSS</li>
-                <li>JavaScript (mention any frameworks if applicable)</li>
-                <li>Git & GitHub</li>
-                <li>[Another Skill]</li>
-            </ul>
-        </section>
-  <section>
-            <h2>Connect With Me</h2>
-            <p>You can find me on these platforms:</p>
-            <ul>
-                <li><a href="https://github.com/[YourUsername]" target="_blank">GitHub Profile</a></li>
-                <li><a href="https://linkedin.com[YourProfile]" target="_blank">LinkedIn</a></li>
-                <li><a href="https://twitter.com[YourHandle]" target="_blank">Twitter</a></li>
-            </ul>
-        </section>
-    </main>
+---
 
- <footer>
-        <p>&copy; 2026 [Your Name]. All rights reserved.</p>
-    </footer>
+<h2>🛠️ Skills</h2>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
+---
+
+<h2>📫 Connect with Me</h2>
+<p>
+  <a href="https://github.com/yourusername">🐙 GitHub</a> |
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> |
+  <a href="mailto:youremail@example.com">📧 Email</a>
+</p>
+
+---
+
+<p align="center">⭐️ Thanks for visiting my profile!</p>
