@@ -1,3 +1,44 @@
+
+
+<style>
+  .hover-box {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 20px;
+  }
+
+  .hover-box .hover-name {
+    visibility: hidden;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 6px 10px;
+    border-radius: 5px;
+
+    position: absolute;
+    bottom: 130%;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+  }
+
+  .hover-box:hover .hover-name {
+    visibility: visible;
+  }
+</style>
+
+<p>
+  Hover over this:
+  <span class="hover-box">
+    👤 User
+    <span class="hover-name">John Doe</span>
+  </span>
+</p>
+
+</body>
+</html>
+
 <h4>HHH</h4>
 
 <section>
