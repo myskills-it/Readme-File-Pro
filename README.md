@@ -1,6 +1,5 @@
     <section>
-    
-            <h2>My Skills</h2>
+        <h2>My Skills</h2>
             <ul>
                 <li>HTML & CSS</li>
                 <li>JavaScript (mention any frameworks if applicable)</li>
