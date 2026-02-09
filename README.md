@@ -6,6 +6,6 @@
                 <li>Git & GitHub</li>
                 <li>[Another Skill]</li>
             </ul>
-        </section>
+    </section>
 
         
