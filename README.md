@@ -18,7 +18,7 @@
                 <li><a href="https://twitter.com[YourHandle]" target="_blank">Twitter</a></li>
             </ul>
         </section>
-    </main>
+    
 
     <footer>
         <p>&copy; 2026 [Your Name]. All rights reserved.</p>
